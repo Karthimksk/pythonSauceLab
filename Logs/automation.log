@@ -1,0 +1,269 @@
+2023-08-22 13:37:21,383 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 13:37:21,384 - root - INFO - ************logo is present***************
+2023-08-22 13:37:21,384 - root - INFO - Combination of standard_usersecret_sauceand expected resultPassedis matched with actual resultPassed
+2023-08-22 13:45:35,950 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 13:45:35,951 - root - INFO - ************logo is present***************
+2023-08-22 13:45:36,319 - root - INFO - Combination of standard_usersecret_sauceand expected resultPassedis matched with actual resultPassed
+2023-08-22 13:50:07,202 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 13:50:07,203 - root - INFO - ************logo is present***************
+2023-08-22 13:50:07,721 - root - INFO - Combination of standard_usersecret_sauceand expected resultPassedis matched with actual resultPassed
+2023-08-22 13:50:09,119 - root - INFO - Combination of instandard_userunsecret_sauceand expected resultFailedis not matched with actual resultPassed
+2023-08-22 13:53:49,312 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 13:53:49,313 - root - INFO - ************logo is present***************
+2023-08-22 13:53:49,881 - root - INFO - Combination of standard_usersecret_sauceand expected resultPassedis matched with actual resultPassed
+2023-08-22 13:56:43,457 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 13:56:43,459 - root - INFO - ************logo is present***************
+2023-08-22 13:56:43,797 - root - INFO - Combination of standard_usersecret_sauceand expected resultPassedis matched with actual resultPassed
+2023-08-22 13:56:45,457 - root - INFO - Combination of instandard_userunsecret_sauceand expected resultFailedis matched with actual resultFailed
+2023-08-22 13:56:47,234 - root - INFO - Combination of standard_USERsecret_SAUCEand expected resultFailedis matched with actual resultFailed
+2023-08-22 13:56:48,265 - root - INFO - Combination of BlankBlankand expected resultFailedis matched with actual resultFailed
+2023-08-22 13:58:22,168 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 13:58:22,169 - root - INFO - ************logo is present***************
+2023-08-22 13:58:22,620 - root - INFO - Combination of standard_user secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 13:58:24,453 - root - INFO - Combination of instandard_user unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 13:58:25,731 - root - INFO - Combination of standard_USER secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 13:58:27,234 - root - INFO - Combination of Blank Blankand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:00:44,369 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:00:44,370 - root - INFO - ************logo is present***************
+2023-08-22 14:00:44,884 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:00:46,752 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:00:48,185 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:00:49,494 - root - INFO - Combination of Username: Blank Password: Blankand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:03:14,355 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:03:14,355 - root - INFO - ************logo is present***************
+2023-08-22 14:03:14,746 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:03:16,417 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:03:18,198 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:03:19,263 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:12:14,534 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:12:14,535 - root - INFO - ************logo is present***************
+2023-08-22 14:12:15,023 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:12:16,757 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:12:18,403 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:12:19,664 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:12:47,549 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:12:47,550 - root - INFO - ************logo is present***************
+2023-08-22 14:12:47,818 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:12:48,701 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:12:50,454 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:12:51,717 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:18:07,535 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:18:07,536 - root - INFO - ************logo is present***************
+2023-08-22 14:18:07,926 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:18:09,333 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:18:10,768 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:18:11,554 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:21:24,738 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:21:24,739 - root - INFO - ************home screen is present***************
+2023-08-22 14:21:25,159 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:26:06,164 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:26:06,165 - root - INFO - ************home screen is present***************
+2023-08-22 14:26:06,752 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:26:25,219 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:26:25,219 - root - INFO - ************home screen is present***************
+2023-08-22 14:26:25,762 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:26:27,571 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:26:29,404 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:26:30,543 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:28:23,570 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:28:23,571 - root - INFO - ************home screen is present***************
+2023-08-22 14:28:24,056 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:28:25,598 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:28:27,167 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:28:28,039 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:28:50,120 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:28:50,120 - root - INFO - ************home screen is present***************
+2023-08-22 14:28:50,533 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:28:52,349 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:28:53,405 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:28:54,639 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:30:39,715 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:30:39,716 - root - INFO - ************home screen is present***************
+2023-08-22 14:30:40,287 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:30:42,085 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:30:43,494 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:30:44,238 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:31:26,400 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:31:26,401 - root - INFO - ************home screen is present***************
+2023-08-22 14:31:26,946 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:31:27,970 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:31:28,812 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:31:29,610 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:32:19,725 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:32:19,725 - root - INFO - ************home screen is present***************
+2023-08-22 14:32:20,099 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is matched with actual resultPassed
+2023-08-22 14:32:21,886 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:32:23,564 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is matched with actual resultFailed
+2023-08-22 14:32:24,515 - root - INFO - Combination of Username:  Password: and expected resultFailed is matched with actual resultFailed
+2023-08-22 14:35:15,260 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:35:15,260 - root - INFO - ************home screen is present***************
+2023-08-22 14:35:15,578 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is  matched with actual result Passed
+2023-08-22 14:35:16,076 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is  matched with actual result Failed
+2023-08-22 14:35:16,561 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is  matched with actual result Failed
+2023-08-22 14:35:16,934 - root - INFO - Combination of Username:  Password: and expected resultFailed is  matched with actual result Failed
+2023-08-22 14:36:27,660 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:36:27,660 - root - INFO - ************home screen is present***************
+2023-08-22 14:36:27,943 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is  matched with actual result Passed
+2023-08-22 14:36:28,453 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is  matched with actual result Failed
+2023-08-22 14:36:28,936 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is  matched with actual result Failed
+2023-08-22 14:36:29,308 - root - INFO - Combination of Username:  Password: and expected resultFailed is  matched with actual result Failed
+2023-08-22 14:38:02,807 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:38:02,808 - root - INFO - ************home screen is present***************
+2023-08-22 14:38:03,094 - root - INFO - Combination of Username: standard_user Password: secret_sauceand expected resultPassed is  matched with actual result Passed
+2023-08-22 14:38:03,585 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauceand expected resultFailed is  matched with actual result Failed
+2023-08-22 14:38:04,065 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCEand expected resultFailed is  matched with actual result Failed
+2023-08-22 14:38:04,437 - root - INFO - Combination of Username:  Password: and expected resultFailed is  matched with actual result Failed
+2023-08-22 14:39:02,096 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:39:02,096 - root - INFO - ************home screen is present***************
+2023-08-22 14:39:02,370 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-22 14:39:02,863 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-22 14:39:03,341 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-22 14:39:03,704 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-22 14:40:07,409 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:40:07,409 - root - INFO - ************home screen is present***************
+2023-08-22 14:40:07,709 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-22 14:40:13,263 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:40:13,264 - root - INFO - ************home screen is present***************
+2023-08-22 14:40:13,264 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Passed is not  matched with actual result Failed
+2023-08-22 14:49:27,856 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:49:27,856 - root - INFO - ************home screen is present***************
+2023-08-22 14:49:28,119 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-22 14:49:33,617 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:49:33,617 - root - INFO - ************home screen is present***************
+2023-08-22 14:49:33,618 - root - CRITICAL - Combination of Username: instandard_user Password: unsecret_sauce and expected result Passed is not  matched with actual result Failed
+2023-08-22 14:49:34,161 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-22 14:49:34,524 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-22 14:51:00,514 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:51:00,515 - root - INFO - ************home screen is present***************
+2023-08-22 14:51:00,788 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-22 14:51:06,290 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:51:06,290 - root - INFO - ************home screen is present***************
+2023-08-22 14:51:06,291 - root - CRITICAL - Combination of Username: instandard_user Password: unsecret_sauce and expected result Passed is not  matched with actual result Failed
+2023-08-22 14:51:06,900 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-22 14:51:07,247 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-22 14:52:20,029 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:52:20,029 - root - INFO - ************home screen is present***************
+2023-08-22 14:52:20,318 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-22 14:52:20,804 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-22 14:52:21,281 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-22 14:52:21,657 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-22 14:54:33,434 - root - INFO - ************test_case_id_001***************
+2023-08-22 14:54:33,921 - root - INFO - ************test_case_id_001 is passed***************
+2023-08-22 14:54:36,631 - root - INFO - ************test_case_id_002 is passed***************
+2023-08-22 14:54:36,631 - root - INFO - ************logo is present***************
+2023-08-22 14:55:06,441 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-22 14:55:06,442 - root - INFO - ************home screen is present***************
+2023-08-22 14:55:06,683 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-22 14:55:07,148 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-22 14:55:07,664 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-22 14:55:08,045 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-24 05:58:08,578 - root - INFO - Test Case ID 006 Passed all image, price and headlines are displayed
+2023-08-24 06:02:55,678 - root - INFO - Test Case ID 006 is failed
+2023-08-24 06:03:34,718 - root - INFO - Test Case ID 006 is failed
+2023-08-24 06:05:09,646 - root - INFO - Test Case ID 006 Passed all image, price and headlines are displayed
+2023-08-24 06:22:21,924 - root - INFO - Test Case ID 007 is passed
+2023-08-24 06:33:19,246 - root - INFO - Test caes ID 008 is failed
+2023-08-24 06:33:59,805 - root - INFO - Test caes ID 008 is failed
+2023-08-24 06:35:42,901 - root - INFO - Test Case ID 008 is passed
+2023-08-24 06:39:41,340 - root - INFO - Test caes ID 008 is failed
+2023-08-24 06:40:49,772 - root - INFO - Test Case ID 008 is passed
+2023-08-24 06:42:53,869 - root - INFO - Test caes ID 010 is failed
+2023-08-24 06:43:16,259 - root - INFO - Test Case ID 010 is passed
+2023-08-24 06:45:02,068 - root - INFO - Test caes ID 011 is failed
+2023-08-24 06:45:32,316 - root - INFO - Test Case ID 011 is passed
+2023-08-25 01:47:01,210 - root - INFO - Test Case ID 007 is passed
+2023-08-25 01:47:04,924 - root - INFO - Test Case ID 008 is passed
+2023-08-25 01:47:08,643 - root - INFO - Test Case ID 009 is passed
+2023-08-25 01:47:13,648 - root - INFO - Test Case ID 010 is passed
+2023-08-25 01:47:21,540 - root - INFO - Test Case ID 011 is passed
+2023-08-25 01:52:03,331 - root - INFO - Test Case ID 006 Passed all image, price and headlines are displayed
+2023-08-25 01:52:34,372 - root - INFO - Test Case ID 006 Passed all image, price and headlines are displayed
+2023-08-25 14:20:02,674 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-25 14:20:02,676 - root - INFO - ************home screen is present***************
+2023-08-25 14:20:02,959 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-25 14:20:03,743 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-25 14:20:04,606 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-25 14:20:05,324 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-25 15:01:31,184 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-25 15:01:31,185 - root - INFO - ************home screen is present***************
+2023-08-25 15:01:31,685 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-25 15:01:33,503 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-25 15:01:35,156 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-25 15:01:36,446 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-25 15:04:15,072 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-25 15:04:15,073 - root - INFO - ************home screen is present***************
+2023-08-25 15:04:15,398 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-25 15:04:16,187 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-25 15:04:16,958 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-25 15:04:17,891 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-25 15:10:57,468 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-25 15:10:57,470 - root - INFO - ************home screen is present***************
+2023-08-25 15:10:57,784 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-25 15:10:58,607 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-25 15:10:59,436 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-25 15:11:00,109 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-25 15:26:19,066 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-08-25 15:26:19,067 - root - INFO - ************home screen is present***************
+2023-08-25 15:26:19,406 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-08-25 15:26:20,215 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-08-25 15:26:21,055 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-08-25 15:26:21,704 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-08-25 15:26:21,704 - root - INFO - TEST_CASE_DDT_001,TEST_CASE_DDT_002,TEST_CASE_DDT_003,TEST_CASE_DDT_004 are passed
+2023-12-05 02:50:15,750 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-12-05 02:50:15,759 - root - INFO - ************home screen is present***************
+2023-12-05 02:50:16,036 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-12-05 02:50:17,084 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-12-05 02:50:18,060 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-12-05 02:50:18,954 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-12-05 02:50:18,954 - root - INFO - TEST_CASE_DDT_001,TEST_CASE_DDT_002,TEST_CASE_DDT_003,TEST_CASE_DDT_004 are passed
+2023-12-05 02:52:13,351 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-12-05 02:52:13,352 - root - INFO - ************home screen is present***************
+2023-12-05 02:52:13,706 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-12-05 02:52:15,216 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-12-05 02:52:16,685 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-12-05 02:52:18,123 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-12-05 02:52:18,124 - root - INFO - TEST_CASE_DDT_001,TEST_CASE_DDT_002,TEST_CASE_DDT_003,TEST_CASE_DDT_004 are passed
+2023-12-05 03:26:12,302 - root - INFO - ************test_case_id_001***************
+2023-12-05 03:26:15,111 - root - INFO - ************test_case_id_001 is passed***************
+2023-12-05 03:26:18,970 - root - INFO - ************test_case_id_002 is passed***************
+2023-12-05 03:26:18,970 - root - INFO - ************logo is present***************
+2023-12-05 03:36:10,039 - root - INFO - ************test_case_id_001***************
+2023-12-05 03:36:11,531 - root - INFO - ************test_case_id_001 is failed***************
+2023-12-05 03:36:19,114 - root - INFO - ************test_case_id_002 is passed***************
+2023-12-05 03:36:19,114 - root - INFO - ************logo is present***************
+2023-12-06 02:52:20,368 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-12-06 02:52:20,392 - root - INFO - ************home screen is present***************
+2023-12-06 02:52:20,638 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-12-06 02:52:21,195 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-12-06 02:52:21,773 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-12-06 02:52:22,288 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-12-06 02:52:22,288 - root - INFO - TEST_CASE_DDT_001,TEST_CASE_DDT_002,TEST_CASE_DDT_003,TEST_CASE_DDT_004 are passed
+2023-12-06 02:56:43,368 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-12-06 02:56:43,368 - root - INFO - ************test_case_id_003 data driven testing is passed***************
+2023-12-06 02:56:43,382 - root - INFO - ************home screen is present***************
+2023-12-06 02:56:43,382 - root - INFO - ************home screen is present***************
+2023-12-06 02:56:43,592 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-12-06 02:56:43,592 - root - INFO - Combination of Username: standard_user Password: secret_sauce and expected result Passed is  matched with actual result Passed
+2023-12-06 02:56:44,151 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-12-06 02:56:44,151 - root - INFO - Combination of Username: instandard_user Password: unsecret_sauce and expected result Failed is  matched with actual result Failed
+2023-12-06 02:56:44,728 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-12-06 02:56:44,728 - root - INFO - Combination of Username: standard_USER Password: secret_SAUCE and expected result Failed is  matched with actual result Failed
+2023-12-06 02:56:45,236 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-12-06 02:56:45,236 - root - INFO - Combination of Username:  Password:  and expected result Failed is  matched with actual result Failed
+2023-12-06 02:56:45,236 - root - INFO - TEST_CASE_DDT_001,TEST_CASE_DDT_002,TEST_CASE_DDT_003,TEST_CASE_DDT_004 are passed
+2023-12-06 02:56:45,236 - root - INFO - TEST_CASE_DDT_001,TEST_CASE_DDT_002,TEST_CASE_DDT_003,TEST_CASE_DDT_004 are passed
+2023-12-06 02:56:55,892 - root - INFO - Test Case ID 006 is failed
+2023-12-06 02:56:55,892 - root - INFO - Test Case ID 006 is failed
+2023-12-06 02:57:01,402 - root - INFO - Test Case ID 007 is passed
+2023-12-06 02:57:01,402 - root - INFO - Test Case ID 007 is passed
+2023-12-06 02:57:11,724 - root - INFO - Test Case ID 008 is passed
+2023-12-06 02:57:11,724 - root - INFO - Test Case ID 008 is passed
+2023-12-06 02:57:21,935 - root - INFO - Test Case ID 009 is passed
+2023-12-06 02:57:21,935 - root - INFO - Test Case ID 009 is passed
+2023-12-06 03:04:18,107 - root - INFO - Test Case ID 007 is passed
+2023-12-06 03:04:33,074 - root - INFO - Test Case ID 008 is passed
+2023-12-06 03:04:48,145 - root - INFO - Test Case ID 009 is passed
+2023-12-06 03:07:33,257 - root - INFO - Test Case ID 006 is failed
+2023-12-06 03:07:38,581 - root - INFO - Test Case ID 007 is passed
+2023-12-06 03:07:53,564 - root - INFO - Test Case ID 008 is passed
+2023-12-06 03:08:08,495 - root - INFO - Test Case ID 009 is passed
